@@ -4,3 +4,5 @@ github-app-finished
 node_modules
 coverage
 *.log
+*.iml
+.idea/
